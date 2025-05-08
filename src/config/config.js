@@ -1,5 +1,5 @@
 const config = {
-    name: "Your Name",
+    name: "Drastic",
     profession: "Web Developer",
     tagline: "A passionate developer building awesome things",
     about: "I'm a web developer with a passion for creating user-friendly and visually appealing applications. I specialize in React, JavaScript, and UI/UX design and love tackling challenging projects.",
@@ -25,10 +25,11 @@ const config = {
       linkedin: "https://linkedin.com/in/yourprofile",
       github: "https://github.com/yourusername",
     },
-    theme: {
-      primaryColor: "blue-500",
-      secondaryColor: "purple-600",
-    },
+     theme: {
+       primaryColor: "green-500",
+       secondaryColor: "black-600",
+       
+     },
   };
   
   export default config;

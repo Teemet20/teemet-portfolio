@@ -3,7 +3,7 @@ import config from "../config/config";
 
 const Navbar = () => {
   return (
-    <nav className="bg-gray-800 text-white p-4 fixed w-full top-0 shadow-md z-10">
+    <nav className="bg-navbartheme text-white p-4 fixed w-full top-0 shadow-md z-10">
       <div className="container mx-auto flex justify-between items-center">
         <h1 className="text-2xl font-bold">{config.name}'s Portfolio</h1>
         <ul className="flex space-x-6">

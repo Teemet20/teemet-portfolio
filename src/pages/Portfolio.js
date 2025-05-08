@@ -1,5 +1,6 @@
 import ProjectCard from "../components/ProjectCard";
 import config from "../config/config";
+import teemet from "../assets/Teemet.jpg"
 
 const Portfolio = () => {
   const scrollToSection = (id) => {
@@ -14,11 +15,12 @@ const Portfolio = () => {
         className={`h-screen flex items-center justify-center bg-gradient-to-r from-${config.theme.primaryColor} to-${config.theme.secondaryColor} text-white`}
       >
         <div className="text-center">
+          <img src = {teemet} className="h-36 mx-auto object-cover rounded-full w-36" alt=""></img>
           <h2 className="text-5xl font-bold mb-4">Hi, I'm {config.name}</h2>
           <p className="text-xl mb-6">{config.tagline}</p>
           <button
             onClick={() => scrollToSection("projects")}
-            className="bg-white text-blue-600 px-6 py-3 rounded-full font-semibold hover:bg-gray-200"
+            className="bg-white text-emerald-950 px-6 py-3 rounded-full font-semibold hover:bg-orange-300 hover:text-white"
           >
             View My Work
           </button>
@@ -26,10 +28,10 @@ const Portfolio = () => {
       </section>
 
       {/* About Section */}
-      <section id="about" className="py-20 bg-gray-100">
+      <section id="about" className="py-20 bg-black .bg-texture-only">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-8">About Me</h2>
-          <p className="text-lg text-gray-700 max-w-2xl mx-auto">{config.about}</p>
+          <p className="text-lg text-white max-w-2xl mx-auto">{config.about}</p>
         </div>
       </section>
 
