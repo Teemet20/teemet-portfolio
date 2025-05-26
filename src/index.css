@@ -2,6 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Hide default cursor */
+* {
+  cursor: none !important;
+}
+
+/* Show default cursor for interactive elements on touch devices */
+@media (hover: none) {
+  * {
+    cursor: auto !important;
+  }
+}
+
+/* Ensure the custom cursor is above other elements */
+.custom-cursor {
+  z-index: 9999;
+}
+
 body {
   background-image: url(/src/assets/dark-mosaic.png);
   background-color: #000d0f;

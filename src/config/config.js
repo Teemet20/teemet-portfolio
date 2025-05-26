@@ -1,7 +1,7 @@
 const config = {
-    name: "Drastic",
+    name: "Samuel Bankole",
     profession: "Web Developer",
-    tagline: "A passionate developer building awesome things",
+    tagline: "A passionate engineer building awesome things",
     about: "I'm a web developer with a passion for creating user-friendly and visually appealing applications. I specialize in React, JavaScript, and UI/UX design and love tackling challenging projects.",
     projects: [
       {
