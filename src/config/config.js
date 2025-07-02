@@ -1,29 +1,29 @@
 const config = {
     name: "Samuel Bankole",
-    profession: "Web Developer",
+    profession: "Full-Stack Engineer",
     tagline: "A passionate engineer building awesome things",
-    about: "I'm a web developer with a passion for creating user-friendly and visually appealing applications. I specialize in React, JavaScript, and UI/UX design and love tackling challenging projects.",
+    about: "I'm a software engineer with a strong passion for building efficient, scalable, and user-centric web applications. I hold a bachelors' degree in Computer Science from the University of Illinois at Chicago where I developed essential problem-solving skills. I also have four years of experience building applications with React and JavaScript.",
     projects: [
       {
-        title: "Project One",
-        description: "A cool project built with React and Tailwind CSS.",
-        link: "https://github.com/yourusername/project-one",
+        title: "Portfolio Page",
+        description: "My porfolio page built with Reactjs and Tailwind css.",
+        link: "https://github.com/Teemet20/teemet-portfolio",
       },
       {
-        title: "Project Two",
-        description: "An awesome app using modern JavaScript frameworks.",
+        title: "MyFinance",
+        description: "A finance management app built using HTML/CSS, Hosted using AWS.",
         link: "https://github.com/yourusername/project-two",
       },
       {
-        title: "Project Three",
-        description: "A creative solution for a real-world problem.",
+        title: "Restaurant Stack",
+        description: "A stack solution for solving a restaurant's line problem.",
         link: "https://github.com/yourusername/project-three",
       },
     ],
     socialLinks: {
-      email: "your.email@example.com",
-      linkedin: "https://linkedin.com/in/yourprofile",
-      github: "https://github.com/yourusername",
+      email: "teebankole20@gmaail.com",
+      linkedin: "https://www.linkedin.com/in/samuel-bankole-58693917b/",
+      github: "https://github.com/Teemet20",
     },
      theme: {
        primaryColor: "green-500",

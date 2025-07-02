@@ -2,18 +2,19 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
-    title: 'Frontend Developer',
-    company: 'Digital Agency',
-    period: '2020 - 2022',
     description: 'Developed responsive web applications and collaborated with design and backend teams.',
-    technologies: ['JavaScript', 'Vue.js', 'CSS'],
+    title: 'Software Developer',
+    company: 'Idea Entity Corp.',
+    period: '2021 - 2024',
+    description: 'Built and maintained client websites, implemented new features, and implemented CI/CD workflows.',
+    technologies: ['HTML', 'CSS', 'JavaScript', 'React', 'SharePoint', 'REST APIs', 'Azure Devops', 'Power Bi', 'Power Automate'],
   },
   {
-    title: 'Junior Developer',
-    company: 'Startup',
-    period: '2019 - 2020',
-    description: 'Built and maintained client websites, implemented new features, and fixed bugs.',
-    technologies: ['HTML', 'CSS', 'JavaScript'],
+    title: 'Sofware Developer intern',
+    company: 'R.J. Reliance',
+    period: '2020',
+    description: 'Designed and deployed tools used for company communication.',
+    technologies: ['Ruby', 'Ruby on Rails', 'GitHub', 'Python'],
   },
 ];
 
