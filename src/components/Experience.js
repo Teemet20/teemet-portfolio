@@ -12,7 +12,7 @@ const experiences = [
     title: 'Sofware Developer intern',
     company: 'R.J. Reliance',
     period: '2020',
-    description: 'Designed and deployed tools used for company communications.',
+    description: 'Designed and deployed tools used for company communication.',
     technologies: ['Ruby', 'Ruby on Rails', 'GitHub', 'Python'],
   },
 ];
