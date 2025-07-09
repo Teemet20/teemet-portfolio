@@ -2,7 +2,6 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
-    description: 'Developed responsive web applications and collaborated with design and backend teams.',
     title: 'Software Developer',
     company: 'Idea Entity Corp.',
     period: '2021 - 2024',
