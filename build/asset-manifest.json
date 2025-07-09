@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2eddef1f.css",
+    "main.js": "/static/js/main.5f542a71.js",
+    "static/js/488.ea44673b.chunk.js": "/static/js/488.ea44673b.chunk.js",
+    "static/media/Teemet.jpg": "/static/media/Teemet.d58e26705e557401226d.jpg",
+    "static/media/dark-mosaic.png": "/static/media/dark-mosaic.30d88080bfb3a4e170d5.png",
+    "index.html": "/index.html",
+    "main.2eddef1f.css.map": "/static/css/main.2eddef1f.css.map",
+    "main.5f542a71.js.map": "/static/js/main.5f542a71.js.map",
+    "488.ea44673b.chunk.js.map": "/static/js/488.ea44673b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eddef1f.css",
+    "static/js/main.5f542a71.js"
+  ]
+}
