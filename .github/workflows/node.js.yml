@@ -21,11 +21,11 @@ jobs:
       - run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/teemet20/teemet-portfolio.git
+          git remote set-url origin https://${{ secrets.GA_TOKEN }}@github.com/teemet20/teemet-portfolio.git
           npm run deploy
         env:
           CI: false
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GA_TOKEN }}
       - run: |
           git fetch origin
           git ls-remote --heads origin gh-pages
