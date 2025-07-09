@@ -15,8 +15,6 @@ jobs:
           cache: 'npm'
       - run: npm ci
       - run: npm run build
-        env:
-          CI: true
       - run: touch build/.nojekyll
       - run: |
           git config --global user.name "github-actions[bot]"
