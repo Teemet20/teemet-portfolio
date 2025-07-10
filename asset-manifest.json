@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/teemet-portfolio/static/css/main.364b0fe1.css",
-    "main.js": "/teemet-portfolio/static/js/main.0fe9e3c8.js",
+    "main.js": "/teemet-portfolio/static/js/main.10e9894b.js",
     "static/js/488.ea44673b.chunk.js": "/teemet-portfolio/static/js/488.ea44673b.chunk.js",
     "static/media/Teemet.jpg": "/teemet-portfolio/static/media/Teemet.d58e26705e557401226d.jpg",
     "static/media/dark-mosaic.png": "/teemet-portfolio/static/media/dark-mosaic.30d88080bfb3a4e170d5.png",
     "index.html": "/teemet-portfolio/index.html",
     "main.364b0fe1.css.map": "/teemet-portfolio/static/css/main.364b0fe1.css.map",
-    "main.0fe9e3c8.js.map": "/teemet-portfolio/static/js/main.0fe9e3c8.js.map",
+    "main.10e9894b.js.map": "/teemet-portfolio/static/js/main.10e9894b.js.map",
     "488.ea44673b.chunk.js.map": "/teemet-portfolio/static/js/488.ea44673b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.364b0fe1.css",
-    "static/js/main.0fe9e3c8.js"
+    "static/js/main.10e9894b.js"
   ]
 }
