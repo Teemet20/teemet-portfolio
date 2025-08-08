@@ -21,7 +21,7 @@ const config = {
       },
     ],
     socialLinks: {
-      email: "teebankole20@gmaail.com",
+      email: "teebankole20@gmail.com",
       linkedin: "https://www.linkedin.com/in/samuel-bankole-58693917b/",
       github: "https://github.com/Teemet20",
     },
